@@ -1,0 +1,5 @@
+- As a property owner, I want to easily create my account so I can list my properties and make money
+- As a  guest, I want to easily create an account so I can access accommodation easily
+- As a secretary, I want to be able to search and filter for the kind of properties that my boss wants to lodge in
+- As a marketer, I want to easily access the properties that I can market to clients
+- As someone who isn't tech savvy, I want to be able to do the onboarding process in the simplest way possible
